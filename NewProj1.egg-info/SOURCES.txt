@@ -1,0 +1,7 @@
+setup.py
+NewProj1.egg-info/PKG-INFO
+NewProj1.egg-info/SOURCES.txt
+NewProj1.egg-info/dependency_links.txt
+NewProj1.egg-info/top_level.txt
+models/__init__.py
+models/person.py
