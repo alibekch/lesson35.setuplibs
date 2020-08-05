@@ -8,4 +8,4 @@ class Grade:
             print(a.getFullName())
 
     def __str__(self):
-        return "It is class of grade"
+        return "It is class of grade12321"
