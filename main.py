@@ -6,3 +6,4 @@ persons = [p1, p2]
 
 g1=Grade("11b", persons)
 g1.print_persons()
+print(g1)
